@@ -1,4 +1,4 @@
-#parametro de excução
+#parametros de excução
 param($procurarPor, $tipoDeExportacao)
 
 <#
